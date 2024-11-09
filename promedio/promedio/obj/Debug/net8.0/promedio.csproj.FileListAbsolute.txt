@@ -1,0 +1,14 @@
+C:\Users\yanid\source\repos\Csc\promedio\promedio\bin\Debug\net8.0\promedio.exe
+C:\Users\yanid\source\repos\Csc\promedio\promedio\bin\Debug\net8.0\promedio.deps.json
+C:\Users\yanid\source\repos\Csc\promedio\promedio\bin\Debug\net8.0\promedio.runtimeconfig.json
+C:\Users\yanid\source\repos\Csc\promedio\promedio\bin\Debug\net8.0\promedio.dll
+C:\Users\yanid\source\repos\Csc\promedio\promedio\bin\Debug\net8.0\promedio.pdb
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.AssemblyInfoInputs.cache
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.AssemblyInfo.cs
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.csproj.CoreCompileInputs.cache
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.dll
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\refint\promedio.dll
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.pdb
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.genruntimeconfig.cache
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\ref\promedio.dll
