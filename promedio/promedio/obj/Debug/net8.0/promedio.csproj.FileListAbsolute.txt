@@ -12,3 +12,4 @@ C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\refint\promed
 C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.pdb
 C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.genruntimeconfig.cache
 C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\ref\promedio.dll
+C:\Users\yanid\source\repos\Csc\promedio\promedio\obj\Debug\net8.0\promedio.sourcelink.json

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yanid\\source\\repos\\Csc\\CSB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C5B407D-155F-4DFB-8EE4-7854C4A561EA}|CalcularSalario\\CalcularSalario.csproj|c:\\users\\yanid\\source\\repos\\csc\\csb\\calcularsalario\\calcularsalario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C5B407D-155F-4DFB-8EE4-7854C4A561EA}|CalcularSalario\\CalcularSalario.csproj|solutionrelative:calcularsalario\\calcularsalario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C5B407D-155F-4DFB-8EE4-7854C4A561EA}|CalcularSalario\\CalcularSalario.csproj|c:\\users\\yanid\\source\\repos\\csc\\csb\\calcularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5B407D-155F-4DFB-8EE4-7854C4A561EA}|CalcularSalario\\CalcularSalario.csproj|solutionrelative:calcularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CalcularSalario",
+              "DocumentMoniker": "C:\\Users\\yanid\\source\\repos\\Csc\\CSB\\CalcularSalario\\CalcularSalario.csproj",
+              "RelativeDocumentMoniker": "CalcularSalario\\CalcularSalario.csproj",
+              "ToolTip": "C:\\Users\\yanid\\source\\repos\\Csc\\CSB\\CalcularSalario\\CalcularSalario.csproj",
+              "RelativeToolTip": "CalcularSalario\\CalcularSalario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T19:16:24.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yanid\\source\\repos\\Csc\\CSB\\CalcularSalario\\Program.cs",
               "RelativeDocumentMoniker": "CalcularSalario\\Program.cs",
